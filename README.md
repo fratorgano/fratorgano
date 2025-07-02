@@ -5,7 +5,7 @@ Hi there, I'm fratorgano👋
 A developer who loves learning and creating innovative solutions with new technologies!
 </p>
 
-🧪 I'm currently working as a **Machine Learning Researcher** at the [Computational Biology and Bioinformatics Lab](https://anacletolab.di.unimi.it/) of the [University of Milan](https://www.unimi.it) 
+🧪 I'm currently working as a **Machine Learning Engineer** at the [Computational Biology and Bioinformatics Lab](https://anacletolab.di.unimi.it/) of the [University of Milan](https://www.unimi.it) 
 
 🔭 I'm looking for new job opportunities as a **Software Engineer**, my goal is finding a place where I can learn, improve and help others do the same
 
