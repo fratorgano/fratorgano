@@ -7,8 +7,6 @@ A developer who loves learning and creating innovative solutions with new techno
 
 🧪 I'm currently working as a **Machine Learning Engineer** at the [Computational Biology and Bioinformatics Lab](https://anacletolab.di.unimi.it/) of the [University of Milan](https://www.unimi.it) 
 
-🔭 I'm looking for new job opportunities as a **Software Engineer**, my goal is finding a place where I can learn, improve and help others do the same
-
 🛠️ The main languages I use are **Python**, **Javascript** and **Rust** but my degree in computer science allows me to adapt to new languages easily. I've also used many others, including Golang, Java, Scala, C, C# and Erlang 
 
 🌱 I’m currently learning **Rust** to learn a fun and complex new language
